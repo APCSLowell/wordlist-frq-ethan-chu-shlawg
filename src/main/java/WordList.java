@@ -25,3 +25,4 @@ public class WordList
           myList.remove(i);
   }
 }
+}
